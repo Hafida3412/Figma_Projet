@@ -1,4 +1,4 @@
-<p align="left">Maquettage Version Mobile First Design</p>
+__<p align="left">Maquettage Version Mobile First Design</p>__
 <br>
 <img width="518" alt="image" src="https://github.com/user-attachments/assets/e6cd1bc0-ffeb-4ac1-90b4-9792e0a45760">
 <br>
@@ -6,5 +6,5 @@
 <br>
 <br>
 <br>
-<p align="left">Maquettage Version Desktop</p>
+__<p align="left">Maquettage Version Desktop</p>__
 
