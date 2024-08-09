@@ -7,8 +7,7 @@ __<p align="left">Maquettage Version Mobile First Design</p>__
 <br>
 <br>
 __<p align="left">Maquettage Version Desktop</p>__
-<img width="401" alt="image" src="https://github.com/user-attachments/assets/23cc5eca-b905-46a6-8ccb-459a7e8327b5">
-<br>
+
 <img width="397" alt="image" src="https://github.com/user-attachments/assets/8fbb5edb-c4c6-429d-a043-c53f33c9f0ae">
 <br>
 <img width="393" alt="image" src="https://github.com/user-attachments/assets/3c157d9b-bd29-4222-bf56-ae057d9774b3">
