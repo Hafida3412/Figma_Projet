@@ -7,6 +7,8 @@ __<p align="left">Maquettage Version Mobile First Design</p>__
 <br>
 <br>
 __<p align="left">Maquettage Version Desktop</p>__
+<p>Voici quelques vues de la varsion Desktop</p>
+
 <img width="396" alt="image" src="https://github.com/user-attachments/assets/c3ef7896-b316-4372-a955-ab7ca8de5941">
 <br>
 <img width="397" alt="image" src="https://github.com/user-attachments/assets/8fbb5edb-c4c6-429d-a043-c53f33c9f0ae">
